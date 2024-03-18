@@ -1,1 +1,24 @@
+
+
+
+
+<meta charset="utf-8"><!DOCTYPE html><html lang="pt-br">
+<head><title>SANTOS LINKS</title>
+<link rel="sortcut icon" href="https://www.pngall.com/wp-content/uploads/5/Red-Ball-PNG-High-Quality-Image.png" type="image/gif" />
+<link href="JS.js" rel="stylesheet">
+<link rel="stylesheet" href="CSS.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="SANTOS LINKS">
+<meta name="keywords" content="SANTOS LINKS, SANTOS, LINKS">
+</head><body><style>
+img {
+    max-width: 100%;
+}
+</style>
+
+
+
+
+
 <a href="#top"><P><div class="footer"><FONT SIZE=+3><B>TOPO</B></FONT></div></P></a>
